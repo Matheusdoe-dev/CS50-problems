@@ -5,7 +5,6 @@
 ![Repo Size][repo-size]
 ![Top Languages][top-languages]
 ![Repo License][repo-license]
-![Repo Version][repo-version]
 ![Personal Site][matheus-img]
 
 ## About
